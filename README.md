@@ -1,2 +1,4 @@
 # OPEND-ESIGN
 Love is boundless, shared by all
+20221018@lv
+My personal idea is for all the programming enthusiasts, do not repeatedly build wheels, we can put their good design, good ideas, good code, efficient algorithm, open out, love is boundless, we share.  @User For all users, I personally hope that we can review the quality and efficiency of the code together when we use the code. If we find design defects or efficiency problems in the code, we can help to submit and fix them.  Perfect our open items, together @ developers We can put our code issue here, testers, all users are our code, of course, the testers in here there are a lot of industry and industry elite, they may have more on design thinking, the attention of efficiency, our code after their opinions may be more perfect.  Big love without borders, we share! 
